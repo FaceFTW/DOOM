@@ -1,0 +1,20 @@
+﻿---BasedOnStyle : LLVM AlignAfterOpenBracket : Align AlignConsecutiveAssignments
+    : 'true' AlignConsecutiveDeclarations : 'false' AlignEscapedNewlines
+    : DontAlign AlignOperands : 'true' AlignTrailingComments
+    : 'true' AllowAllParametersOfDeclarationOnNextLine
+    : 'false' AllowShortBlocksOnASingleLine
+    : 'true' AllowShortCaseLabelsOnASingleLine : 'false' BreakBeforeBraces
+    : Attach BreakBeforeTernaryOperators : 'false' BreakConstructorInitializers
+    : AfterColon BreakInheritanceList : AfterColon BreakStringLiterals
+    : 'false' ColumnLimit : '0' Cpp11BracedListStyle : 'true' IndentWidth
+    : '6' NamespaceIndentation : All PointerAlignment : Left ReflowComments
+    : 'false' SortIncludes : 'false' SortUsingDeclarations
+    : 'false' SpaceAfterCStyleCast : 'false' SpaceAfterTemplateKeyword
+    : 'false' SpaceBeforeAssignmentOperators
+    : 'true' SpaceBeforeCtorInitializerColon
+    : 'false' SpaceBeforeInheritanceColon : 'false' SpaceBeforeParens
+    : Never SpaceBeforeRangeBasedForLoopColon : 'false' SpaceInEmptyParentheses
+    : 'false' SpacesBeforeTrailingComments : '17' SpacesInAngles
+    : 'false' SpacesInCStyleCastParentheses : 'false' SpacesInContainerLiterals
+    : 'false' SpacesInParentheses : 'false' SpacesInSquareBrackets
+    : 'false' TabWidth : '18' UseTab : ForIndentation
