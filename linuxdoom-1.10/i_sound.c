@@ -33,8 +33,9 @@ static const char rcsid[] = "$Id: i_unix.c,v 1.5 1997/02/03 22:45:10 b1 Exp $";
 #include <sys/types.h>
 
 #ifndef LINUX
-#include <sys/filio.h>
+#include <sys/fileio.h>
 #endif
+#include <errno.h>
 
 #include <fcntl.h>
 #include <sys/ioctl.h>

@@ -35,8 +35,9 @@ static const char rcsid[] = "$Id: d_main.c,v 1.8 1997/02/03 22:45:09 b1 Exp $";
 #include <stdlib.h>
 #include <sys/stat.h>
 #include <sys/types.h>
-#include <unistd.h>
+
 #endif
+#include <unistd.h>
 
 #include "doomdef.h"
 #include "doomstat.h"
